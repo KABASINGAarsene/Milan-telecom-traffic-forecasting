@@ -27,8 +27,8 @@ To replicate the main findings, follow these exact steps to avoid Out-Of-Memory 
 
 1. **Clone the Repository:**
    ```bash
-   git clone [Insert Your Repo URL]
-   cd [Your Repo Directory Name]
+   git clone Repo URL
+   cd  Repo Directory Name
    ```
 
 1. **Download the Data:**  
